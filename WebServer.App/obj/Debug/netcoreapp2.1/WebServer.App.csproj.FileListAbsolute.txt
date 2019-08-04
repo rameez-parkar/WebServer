@@ -1,0 +1,11 @@
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\bin\Debug\netcoreapp2.1\WebServer.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\bin\Debug\netcoreapp2.1\WebServer.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\bin\Debug\netcoreapp2.1\WebServer.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\bin\Debug\netcoreapp2.1\WebServer.App.dll
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\bin\Debug\netcoreapp2.1\WebServer.App.pdb
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\obj\Debug\netcoreapp2.1\WebServer.App.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\obj\Debug\netcoreapp2.1\WebServer.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\obj\Debug\netcoreapp2.1\WebServer.App.AssemblyInfoInputs.cache
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\obj\Debug\netcoreapp2.1\WebServer.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\obj\Debug\netcoreapp2.1\WebServer.App.dll
+C:\Users\rparkar\Desktop\Assignments\WebServer\WebServer.App\obj\Debug\netcoreapp2.1\WebServer.App.pdb
